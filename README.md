@@ -1,0 +1,3 @@
+# minitorch
+
+Exploring the code
